@@ -1,0 +1,933 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	background: url(img/header.png) repeat-x #CCCCCC;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: #000000;
+}
+a:hover{text-decoration:underline;}
+a{text-decoration:none;}
+.stahl #container {
+	width: 874px;
+	text-align: left;
+	background:url(img/bg-content.png) repeat-y left;
+	margin-top:-12px;
+ *margin-top:3px;
+	float:left;
+}
+.stahl #header {
+	height:115px;
+}
+.stahl #header_telefone {
+	width:105px;
+	height:15px;
+	background:url(img/telefone.png) no-repeat;
+	float:left;
+	margin-top:10px;
+	margin-left:20px;
+	position:relative;
+	left:-150px;
+	top:70px;
+}
+.stahl #header-img {
+	background:url(img/header-img.jpg) no-repeat #003e7d;
+	margin-top: 15px;
+	height:68px;
+}
+.stahl #header h1 {
+	width:155px;
+	height:70px;
+	background:url(img/logo.png) center no-repeat #FFF;
+	text-indent:-999999px;
+	margin-left: 9px;
+	float:left;
+}
+.stahl #mainContent {
+	margin: 0 0 0 173px;
+	padding: 0;
+	margin-bottom: 30px;
+}
+.stahl #mainContent #sidebar1 {
+	float: left;
+	width: 100px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.stahl #mainContent #sidebar1 img {
+	margin-bottom:10px;
+	margin-top:10px;
+	margin-left:5px;
+}
+.stahl #mainContent #conteudo {
+	width:360px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-left: 140px;
+	
+	
+	font-family: Arial, Helvetica, sans-serif;
+}
+.stahl #mainContent #conteudo p {
+	color:#003366;
+	font-size:12px;
+	margin-bottom:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.stahl #mainContent #conteudo .marge img {
+	margin-right:15px;
+	margin-bottom:20px;
+}
+.stahl #mainContent #conteudo .marge2 img {
+	margin-right:15px;
+	margin-bottom:20px;
+}
+.stahl #mainContent #conteudo .marge3 {
+	width:350px;
+	float:left;
+}
+.stahl #mainContent #conteudo .marge3 img {
+	margin-right:15px;
+	margin-bottom:10px;
+	float:left;
+}
+.stahl #mainContent #conteudo .marge3 p {
+	width:150px;
+	float:left;
+}
+.stahl #mainContent #conteudo .marge3 h3 {
+	width:370px;
+	margin-top:10px;
+	background:#f0f0f0;
+}
+.stahl #mainContent #conteudo .marge3 ul {
+	width:370px;
+	float:left;
+	background:#f0f0f0;
+}
+.stahl #mainContent #conteudo .marge4 h3 {
+	width:370px;
+	margin-top:10px;
+	background:#f0f0f0;
+	float:left
+}
+.stahl #mainContent #conteudo .marge4 ul {
+	width:370px;
+	float:left;
+	background:#f0f0f0;
+}
+.stahl #mainContent #conteudo p a:link {
+	color:#003366;
+	text-decoration: none;
+	font-weight: bold;
+}
+.stahl #mainContent #conteudo p a:visited {
+	text-decoration: none;
+	color:#003366;
+}
+.stahl #mainContent #conteudo p a:hover {
+	text-decoration: none;
+	color:#003366;
+}
+.stahl #mainContent #conteudo p a:active {
+	text-decoration: none;
+	color:#003366;
+}
+.stahl #mainContent #conteudo p {
+	color:#003366;
+	font-size:12px;
+	line-height:16px;
+	margin-bottom:5px;
+}
+.stahl #mainContent #conteudo li {
+	color:#003366;
+	font-size:12px;
+	line-height:16px;
+	margin-bottom:5px;
+}
+.stahl #mainContent #conteudo li a:link {
+	color:#003366;
+	font-weight: bold;
+}
+.stahl #mainContent #conteudo li a:visited {
+
+	color:#003366;
+	font-weight: bold;
+}
+.stahl #mainContent #conteudo li a:hover {
+	color:#003366;
+	font-weight: bold;
+}
+.stahl #mainContent #conteudo li a:active {
+	text-decoration: none;
+	color:#003366;
+	font-weight: bold;
+}
+.stahl #mainContent #conteudo h3 {
+	color:#003366;
+	font-size:14px;
+	line-height:24px;
+	font-weight:bold;
+	margin-top:20px;
+}
+.stahl #mainContent #conteudo h2 {
+	color:#003366;
+	font-size:16px;
+	line-height:24px;
+	font-weight:bold;
+}
+.stahl #mainContent #conteudo h1 {
+	color:#003366;
+	font-size:18px;
+	line-height:24px;
+	font-weight:bold;
+}
+.stahl #mainContent #conteudo h2 a:link {
+	color:#003366;
+	text-decoration: none;
+}
+.stahl #mainContent #conteudo h2 a:visited {
+	text-decoration: none;
+	color:#003366;
+}
+.stahl #mainContent #conteudo h2 a:hover {
+	text-decoration: none;
+	color:#003366;
+}
+.stahl #mainContent #conteudo h2 a:active {
+	text-decoration: none;
+	color:#003366;
+}
+.stahl #footer {
+	background:url(img/footer.jpg) repeat-x;
+	height:23px;
+	margin-top: 0px;
+	float:left;
+	width:100%;
+}
+.stahl #footer2 {
+	background:url(img/footer-2.jpg) no-repeat;
+	height:23px;
+	margin-top: 0px;
+	width:400px;
+	margin-left:160px;
+	float:left;
+}
+.fltrt {
+	float: right;
+	margin-left: 8px;
+}
+.fltlft {
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+/*################################### sidebar ##################################*/
+
+.stahl #sidebar {
+	float: left;
+	width: 173px;
+	padding: 0px;
+	position:relative;
+	 top /*\**/: -30px\0/;
+	*top:0px;
+ *top:-30px;
+}
+.stahl #sidebar #banner {
+	margin-left:auto;
+	margin-right:auto;
+	width:120px;
+	margin-top:130px;
+}
+.stahl #sidebar li img {
+	height:15px;
+	margin-bottom:-5px;
+	margin-left:10px;
+}
+.stahl #sidebar li {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:7pt;
+	letter-spacing:0px;
+	line-height:22px;
+	text-indent:10px;
+	font-weight:bold;
+	margin-bottom:2px;
+	background:#FFF;
+	width:170px;
+}
+.stahl #sidebar li a:link {
+	color: #1b4c87;
+	text-decoration: none;
+	background:#FFF;
+	display:block;
+}
+.stahl #sidebar li a:visited {
+	text-decoration: none;
+	color: #1b4c87;
+	background:#FFF;
+}
+.stahl #sidebar li a:hover {
+	text-decoration: none;
+	color: #FFF;
+	background: #1b4c87;
+}
+.stahl #sidebar li a:active {
+	text-decoration: none;
+	color: #1b4c87;
+	background:#FFF;
+	display:block;
+}
+.stahl #sidebar #ativo {
+	text-decoration: none;
+	background: #1b4c87;
+	color: #FFF;
+}
+.stahl #sidebar h1 {
+	text-indent:-99999px;
+}
+.stahl #sidebar h3 {
+	text-indent:-99999px;
+}
+#nav {
+	margin-left:35px;
+	float:left;
+	position:relative;
+	left:-150px;
+	top:70px;
+}
+#nav li {
+	float:left;
+	display:block;
+}
+#nav li a:link {
+	display:block;
+	height:30px;
+}
+#nav li a:visited {
+	display: inherit;
+	height:30px;
+}
+#empresa {
+	width:65px;
+	height:33px;
+	background:url(img/01.png) no-repeat;
+	text-indent:-999999px;
+}
+#produtos {
+	width:74px;
+	height:33px;
+	background:url(img/02.png) no-repeat;
+	text-indent:-999999px;
+}
+#serviços {
+	width:68px;
+	height:33px;
+	background:url(img/03.png) no-repeat;
+	text-indent:-999999px;
+}
+#downloads {
+	width:82px;
+	height:33px;
+	background:url(img/04.png) no-repeat;
+	text-indent:-999999px;
+}
+#representantes {
+	width:109px;
+	height:33px;
+	background:url(img/05.png) no-repeat;
+	text-indent:-999999px;
+}
+#contato {
+	width:65px;
+	height:33px;
+	background:url(img/06.png) no-repeat;
+	text-indent:-999999px;
+}
+/*######################## EMPRESA #########################*/
+
+
+#titulo_servicos {
+	background:url(img/titulo-servicos.png) no-repeat #A2A2A2;
+	height:72px;
+	width:170px;
+}
+#titulo_empresa {
+	background:url(img/titulo-empresa.png) no-repeat #A2A2A2;
+	height:72px;
+	width:170px;
+}
+#titulo_contato {
+	background:url(img/titulo-contato.png) no-repeat #A2A2A2;
+	height:72px;
+	width:170px;
+}
+#titulo_downloads {
+	background:url(img/titulo-downloads.png) no-repeat #A2A2A2;
+	height:72px;
+	width:170px;
+}
+#bg_downloads {
+	background: url(img/bg-downloads.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_acessorios {
+	background: url(img/bg-acessorios.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_caboaco {
+	background: url(img/bg-cabo-aco.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_contato {
+	background: url(img/bg-contato.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_contato h1 {
+	padding-top:63px;
+	padding-left:149px;
+	color:#003366;
+	font-size:18px;
+}
+#bg_pecas {
+	background: url(img/bg-pecas.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_empresa {
+	background: url(img/bg-empresa.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_empresa h1 {
+	padding-top:63px;
+	padding-left:149px;
+	color:#003366;
+	font-size:18px;
+}
+#bt_voltar {
+	background: url(img/bt-voltar.png) no-repeat;
+	width:88px;
+	height:128px;
+	position: absolute;
+	top:164px;
+	left:703px;
+}
+#bt_missao {
+	background:url(img/bt-missao.jpg) no-repeat;
+	width:88px;
+	height:128px;
+	position: absolute;
+	top:164px;
+	left:703px;
+}
+#bt_standard {
+	width:88px;
+	position: absolute;
+	top:164px;
+	left:703px;
+}
+#bt_foder {
+	background: url(images/FOLDER.jpg) no-repeat;
+	width:88px;
+	height:67px;
+}
+#bt_tabela {
+	background: url(images/tabela.jpg) no-repeat;
+	width:88px;
+	height:67px;
+}
+#bt_aplicacao {
+	background: url(images/APLICA.jpg) no-repeat;
+	width:88px;
+	height:128px;
+}
+#bt_catalogo {
+	background: url(images/CATALOGO_2.jpg)no-repeat;
+	width:88px;
+	height:128px;
+}
+#bt_catalogo {
+	background: url(images/CATALOGO_2.jpg)no-repeat;
+	width:88px;
+	height:128px;
+}
+#bt_modelo5 {
+	background: url(images/MODELOS2.jpg)no-repeat;
+	width:88px;
+	height:67px;
+}
+#bt_voltar3 {
+	background: url(images/MODELOS2.jpg)no-repeat;
+	width:88px;
+	height:67px;
+}
+#bt_modelo {
+	background: url(images/VOLTA_FINAL.jpg)no-repeat;
+	width:88px;
+	height:128px;
+}
+#img_historia {
+	background:url(img/image_historia.png) no-repeat;
+	height:500px;
+	position:absolute;
+	top:169px;
+	left:175px;
+	width:127px;
+	height:270px;
+}
+#img_representantes {
+	background:url(img/image_representantes.png) no-repeat;
+	height:500px;
+	position:absolute;
+	top:169px;
+	left:175px;
+	width:127px;
+	height:270px;
+}
+#img_contato {
+	background:url(img/image_contato.png) no-repeat;
+	height:500px;
+	position:absolute;
+	top:169px;
+	left:175px;
+	width:127px;
+	height:270px;
+}
+#img_download {
+	background:url(img/image_download.png) no-repeat;
+	height:500px;
+	position:absolute;
+	top:169px;
+	left:175px;
+	width:127px;
+	height:270px;
+}
+/*######################## PRODUTOS #########################*/
+
+
+
+
+
+#titulo_representantes {
+	background:url(img/titulo-representantes.png) no-repeat #A2A2A2;
+	height:72px;
+	width:170px;
+}
+#bg_representantes {
+	background: url(img/bg-representantes.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#titulo_produtos {
+	background:url(img/titulo-produtos.png) no-repeat #A2A2A2;
+	height:72px;
+	width:170px;
+}
+#bg_produtos {
+	background: url(img/bg-produtos.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_produtos h1 {
+	padding-top:63px;
+	padding-left:149px;
+	color:#003366;
+	font-size:18px;
+}
+#bt_certificados {
+	position: absolute;
+	top:402px;
+	left:720px;
+	width:149px;
+	height:720px;
+}
+#bt_certificados a:link {
+	font-weight:bold;
+	text-decoration:none;
+	color:#003366;
+}
+#bt_certificados a:link {
+	font-weight:bold;
+	text-decoration:none;
+	color:#003366;
+}
+#bt_certificados a:visited {
+	font-weight:bold;
+	text-decoration:none;
+	color:#003366;
+}
+#bt_certificados a:hover {
+	font-weight:bold;
+	text-decoration:none;
+	color:#003366;
+}
+#bt_certificados a:active {
+	font-weight:bold;
+	text-decoration:none;
+	color:#003366;
+}
+#bt_certificados p {
+	color:#003366;
+	font-size:12px;
+	line-height:16px;
+	margin-bottom:5px;
+	text-align:center;
+}
+#bg_corrente {
+	background: url(img/bg-corrente.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_pontes {
+	background: url(img/bg-pontes.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_abastecimento {
+	background: url(img/bg-abastecimento.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_radiocontrole {
+	background: url(img/rbg-radio-controle) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_explosao {
+	background: url(img/bg-a-prova-de-explosao) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_guindastes {
+	background: url(img/bg-guindastes.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_monovias {
+	background: url(img/bg-monovias.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_bloco-rodas {
+	background: url(img/bg-bloco-rodas.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_servicos {
+	background: url(img/bg-servicos.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+.nav3 {
+	height:30px;
+	padding-top: 6px;
+	padding-left:15px;
+	float:left;
+}
+.nav3 ul {
+	margin-left:130px;
+}
+.nav3 li {
+	text-align:center;
+	width:85px;
+	font-size:10px;
+	list-style:none;
+	color:#FFF;
+	font-weight:bold;
+	display:block;
+	height:30px;
+	float:left;
+	margin: 0px 5px;
+}
+.nav3 li a {
+	float:left;
+	text-align:center;
+	width:85px;
+	font-size:10px;
+	list-style:none;
+	color:#FFF;
+	text-decoration:none;
+	font-weight:bold;
+	font-family:"Tahoma", Geneva, sans-serif;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	display:block;
+	height:30px;
+	background:url(img/bg_back1.png) no-repeat;
+	margin-left:1px;
+	margin-right:1px;
+}
+.nav3 li a:visited {
+	color:#FFF;
+	background:url(img/bg_back1.png) no-repeat;
+}
+.nav3 li a:hover {
+	background:url(img/bg_back2.png) no-repeat;
+}
+.nav3 .active2 {
+	color: #7B97BA;
+	float:left;
+	text-align:center;
+	width:85px;
+	font-size:10px;
+	font-weight:bold;
+	font-family:"Tahoma", Geneva, sans-serif;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	display:block;
+	height:30px;
+	background:url(img/bg_back3.png) no-repeat;
+	margin-left:1px;
+	margin-right:1px;
+}
+.bloco_info {
+	margin-bottom:10px;
+}
+.bloco_info img {
+	float:right;
+	margin-left:20px;
+}
+.bloco_info h3 {
+	padding-top:10px;
+}
+.bloco_info2 {
+	width:400px;
+	height:150px;
+}
+.bloco_info2 p {
+	padding-top:50px;
+}
+.bloco_info2 img {
+	float:left;
+	margin-right:20px;
+}
+.stahl #mainContent #conteudo .duplo {
+	margin:15px;
+	background:#f0f0f0;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.stahl #mainContent #conteudo .duplo2 {
+	width:210px;
+	background:#f0f0f0;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:4px;
+}
+/*######################## REPRESENTANTES #########################*/
+.stahl #mainContent #conteudo #mapa {
+	height:480px;
+}
+.stahl #mainContent #conteudo .mapa_r {
+	width:340px;
+	position:absolute;
+	z-index:1;
+	left: 330px;
+	top: 660px;
+	visibility: hidden;
+}
+.stahl #mainContent #conteudo .mapa_r p {
+	font-size:12px;
+	margin:0px;
+	padding:0px;
+}
+.stahl #mainContent #conteudo label {
+	color:#003366;
+	font-size:12px;
+	line-height:16px;
+	margin-bottom:5px;
+	text-align:right;
+	float:left;
+	width:80px;
+	margin-top:5px;
+	margin-bottom:5px;
+	padding-right:15px;
+}
+.stahl #mainContent #conteudo label b {
+	color:#900;
+}
+.stahl #mainContent #conteudo .campos {
+	width:200px;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.stahl #mainContent #conteudo .botao {
+	width: 150px;
+	padding-left:170px;
+	clear:both;
+	margin-bottom:20px;
+}
+.stahl #mainContent #conteudo .downloadp h2 {
+	background:#003366;
+	color:#FFF;
+	font-size:12px;
+	padding-left:3px;
+	padding-bottom:10px;
+}
+.stahl #mainContent #conteudo .downloadp h3 {
+	background:#004a95;
+	color:#FFF;
+	font-size:12px;
+	padding-left:15px;
+}
+.stahl #mainContent #conteudo .downloadp ul {
+	padding-left:20px;
+	background:#f0f0f0;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.stahl #mainContent #conteudo .bt_donwload {
+	width:70px;
+	height:20px;
+	background: url(img/bt-download.png) no-repeat;
+	float:right;
+}
+#mailing{
+	width:149px;
+	position:absolute;
+	left:720px;
+	top:169px;
+}
+#mailing h2{
+	color: #003366;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 34px;
+}
+#mailing label{
+	color: #1B4C87;
+    float: right;
+    font-size: 8pt;
+    line-height: 13px;
+    padding-bottom: 3px;
+    width: 150px;
+}
+#mailing label input, #mailing label textarea{
+	border:1px solid #bbb;
+	width:150px;
+}
+
+.botao2 {
+    background: -moz-linear-gradient(center top , #FFFFFF, #DDDDDD) repeat scroll 0 0 #DDDDDD;
+    border: 1px solid #AAAAAA;
+    border-radius: 4px 4px 4px 4px;
+    color: #666666;
+    cursor: pointer;
+    font-size: 10px;
+    margin: 0 104px;
+    overflow: visible;
+    padding: 0.3em 0.4em;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.botao2:hover {
+    background: -moz-linear-gradient(center top , #FFFFFF, #CCCCCC) repeat scroll 0 0 #CCCCCC;
+}
+

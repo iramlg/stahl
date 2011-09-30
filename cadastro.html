@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Elevação e movimentação de cargas - Downloads | Stahl Talhas</title>
+<META NAME="keywords" CONTENT="Fornecedora de equipamentos de movimentação de cargas, equipamentos de movimentação de cargas, equipamentos movimentação de cargas, movimentação de cargas, talha elétrica de corrente, talhas elétricas de cabo de aço, ponte rolante, ponte rolante apoiada univiga, ponte rolante apoiada dupla-viga, pontes rolantes suspensas, pontes rolantes, guindaste giratório, monovias, blocos de rodas, kit de componentes, peças sobressalentes, transporte e movimentação de carga, transporte de carga, fornecimento de componentes. ">
+<META NAME="description" CONTENT="A Stahl é fornecedora de equipamentos de movimentação de cargas e apresenta qualidade reconhecida mundialmente. Os equipamentos fabricados com tecnologia de ponta são fabricados na sede da Stahl,instalada em Itapecerica da Serra (SP).">
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript">
+	function validaForm(){
+		//validar nome
+		d = document.cadastro;
+		if (d.nome.value == ""){
+			alert("O campo " + d.nome.name + " deve ser preenchido!");
+			d.nome.focus();
+			return false;
+		}
+		//validar Empresa
+		if (d.empresa.value == ""){
+			alert("O campo " + d.empresa.name + " deve ser preenchido!");
+			d.user.focus();
+			return false;
+		}
+
+		//validar email
+		if (d.email.value == ""){
+			alert("O campo " + d.email.name + " deve ser preenchido!");
+			d.email.focus();
+			return false;
+		}
+		//validar email(verificao de endereco eletronico)
+		parte1 = d.email.value.indexOf("@");
+		parte2 = d.email.value.indexOf(".");
+		parte3 = d.email.value.length;
+		if (!(parte1 >= 3 && parte2 >= 6 && parte3 >= 9)) {
+			alert("O campo " + d.email.name + " deve ser conter um endereco eletronico!");
+			d.email.focus();
+			return false;
+		}
+
+	}
+</script>
+
+<!--[if IE 5]>
+<style type="text/css"> 
+.stahl #sidebar { width: 230px; }
+</style>
+<![endif]-->
+<!--[if IE]>
+<style type="text/css"> 
+.stahl #sidebar { padding-top: 30px; }
+.stahl #mainContent { zoom: 1; }
+</style>
+<![endif]-->
+</head>
+<body class="stahl">
+<div id="header">
+  <div id="header-img"> <a href="index.html">
+    <h1>Stahl Talhas</h1>
+    </a>
+    <div id="header_telefone"></div>
+    <div id="nav">
+      <ul>
+        <li id="empresa"><a href="empresa.html">Empresa</a></li>
+        <li id="produtos"><a href="produtos.html">Produtos</a></li>
+        <li id="serviços"><a href="servicos.html">Serviços</a></li>
+        <li id="downloads"><a href="downloads.html">Downloads</a></li>
+        <li id="representantes"><a href="representantes.html">Respresentantes</a></li>
+        <li id="contato"><a href="contato.html">Contato</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="container">
+  <div id="sidebar">
+    <h3 id="titulo_downloads"></h3>
+    <ul>
+      <li><a href="downloads/manuais.html">Manuais de Manutenção</a></li>
+      <li><a href="downloads/lista-pecas.html">Lista de Peças</a></li>
+      <li><a href="downloads/catalogos.html">Catálogos / Folders</a></li>
+    </ul>
+    <div id="banner"> </div>
+  </div>
+  <div id="bg_downloads"> </div>
+  <div id="mainContent">
+    <div id="img_download">
+      <div id="sidebar1"> </div>
+    </div>
+    <div id="sidebar1"> </div>
+    <div id="conteudo">
+      <h2>Cadastro</h2>
+        <p>Informe seu nome e email.</p>
+<form name="cadastro" action="teste.php" method="post" onSubmit="return validaForm()">
+
+         <ul>
+           <li> <label> *Empresa</label></li>
+           
+           <li>
+             <input name="empresa" type="text" />
+           </li>
+           
+            <li><label> *Nome: </label></li>
+           
+              <li><input name="nome" type="text"></li>
+          
+              <li><label>*Email: </label></li>
+           
+              <li><input name="email" type="text"></li>
+           
+          <li id="obri"> *Campos Obrigatórios</li>
+          <li id="bt_envi"><input name="enviar" type="submit" value="enviar">
+</li>
+    </ul>
+        </form>
+
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </div>
+  </div>
+  <br class="clearfloat" />
+</div>
+</div>
+<div id="footer">
+  <div id="footer2"></div>
+</div>
+</body>
+</html>

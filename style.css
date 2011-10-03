@@ -636,7 +636,7 @@ a{text-decoration:none;}
 	text-decoration:none;
 	color:#003366;
 }
-#bt_certificados p {
+#bt_certificados p, #certificados a {
 	color:#003366;
 	font-size:12px;
 	line-height:16px;
@@ -931,3 +931,4 @@ a{text-decoration:none;}
     background: -moz-linear-gradient(center top , #FFFFFF, #CCCCCC) repeat scroll 0 0 #CCCCCC;
 }
 
+#link a:hover { text-decoration: underline; }

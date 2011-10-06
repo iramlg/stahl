@@ -78,10 +78,10 @@ class download {
         switch ($tipo):
             case 1: //Link para o download
                 $mensagem.="Olá: " . $this->nome . "( " . $this->email . " ) <br /><br />";
-                $mensagem.="Você está recebendo este e-mail pois se solicitou um download no site da <a href=\"http://www.stahl-talhas.com.br\">StahlTalhas</a><br />";
-                $mensagem.="Caso não reconheça esta solicitação, desconsidere este e-mail<br /><br /><br />";
+                $mensagem.="Agradecemos muito o seu contato e disponibilizamos um link abaixo para download do arquivo solicitado.<br /><br /> Caso permaneça alguma dúvida ou queira um contato comercial estamos a inteira disposição no email vendas@stahl-talhas.com.br ou pelo telefone (11) 4147-7777. <br /><br />";
                 $mensagem.="Links para download solicitado: (caso não funcione copie e cole no seu navegador)<br />";
-                $mensagem.="http://" . $_SERVER['SERVER_NAME'] . $this->link . "<br /><br />";
+                $mensagem.="http://" . $_SERVER['SERVER_NAME'] . $this->link . "<br /><br /><br />";
+                $mensagem.="Atenciosamente, <br /><br /><br />Equipe Stahl<br /><br /> ";
                 $emailsend = $this->email;
                 break;
             case 2: //Aviso do download

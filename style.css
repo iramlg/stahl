@@ -932,3 +932,15 @@ a{text-decoration:none;}
 }
 
 #link a:hover { text-decoration: underline; }
+
+#certificados h2 { 
+	font-size: 16px;
+}
+
+#certificados a { 
+	color: #000;
+	margin-top: 5px;
+}
+
+#certificados p { padding-top: 5px; }
+

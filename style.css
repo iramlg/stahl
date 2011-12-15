@@ -895,6 +895,13 @@ a{text-decoration:none;}
 	left:720px;
 	top:169px;
 }
+#mailing.contact {
+	width:200px;
+	position:absolute;
+	left:705px;
+	top:166px;
+	background: #FFF;
+}
 #mailing h2{
 	color: #003366;
     font-size: 13px;
@@ -944,3 +951,22 @@ a{text-decoration:none;}
 
 #certificados p { padding-top: 5px; }
 
+
+.stahl #mainContent #conteudo #moonray_forms_263 input[type="text"] { margin-top: 10px; }
+
+.stahl #mainContent #conteudo #moonray_forms_263 label {
+	width:100px;
+}
+.stahl #mainContent #conteudo #moonray_forms_263 input[type="submit"] { float: right; margin-right: 50px; }
+
+.stahl #container #mailing .moonray_smart_form { padding: 0 0 10px 4px; }
+
+#mailing #moonray_forms_759 label{
+	color: #1B4C87;
+	float: left;
+    font-size: 8pt;
+    line-height: 13px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    width: 150px;
+}

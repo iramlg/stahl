@@ -952,12 +952,12 @@ a{text-decoration:none;}
 #certificados p { padding-top: 5px; }
 
 
-.stahl #mainContent #conteudo #moonray_forms_263 input[type="text"] { margin-top: 10px; }
+.stahl #mainContent .orcamento input[type="text"] { margin-top: 10px; }
 
-.stahl #mainContent #conteudo #moonray_forms_263 label {
+.stahl #container #mainContent .orcamento label {
 	width:100px;
 }
-.stahl #mainContent #conteudo #moonray_forms_263 input[type="submit"] { float: right; margin-right: 50px; }
+.stahl #mainContent .orcamento input[type="submit"] { float: right; margin-right: 50px; }
 
 .stahl #container #mailing .moonray_smart_form { padding: 0 0 10px 4px; }
 

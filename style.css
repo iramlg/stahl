@@ -372,9 +372,15 @@ a{text-decoration:none;}
 	text-indent:-999999px;
 }
 #contato {
-	width:65px;
+	width:58px;
 	height:33px;
 	background:url(img/06.png) no-repeat;
+	text-indent:-999999px;
+}
+#blog {
+	width:65px;
+	height:33px;
+	background:url(img/07.png) no-repeat;
 	text-indent:-999999px;
 }
 /*######################## EMPRESA #########################*/

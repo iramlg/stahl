@@ -105,7 +105,7 @@ if (@$_POST['cmd'] == 'cadastro') {
                 'Reply-To: ' . $email . '' . "\r\n" .
                 'X-Mailer: PHP/' . phpversion();
 
-        mail('sandro@stahl-talhas.com.br', 'Download no Site: ' . $nome, $mensagem, $headers);
+        mail('marketing@stahl-talhas.com.br', 'Download no Site: ' . $nome, $mensagem, $headers);
         exit;
     }
 }

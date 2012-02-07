@@ -94,7 +94,7 @@ class download {
                 $mensagem.="E-mail: <strong>" . $this->email . "</strong><br />";
                 $mensagem.="Arquivo: http://" . $_SERVER['SERVER_NAME'] . $this->link . "<br /><br />";
                 $mensagem.="A pessoa foi notificada via e-mail contendo o link para o download";
-                $emailsend = 'sandro@stahl-talhas.com.br';
+                $emailsend = 'marketing@stahl-talhas.com.br';
                 break;
         endswitch;
         $mensagem.="<br /><br /><strong>Obs.: Não responder este e-mail.</strong>";

@@ -908,6 +908,13 @@ a{text-decoration:none;}
 	top:166px;
 	background: #FFF;
 }
+#mailing.guindaste {
+	width:200px;
+	position:absolute;
+	left:705px;
+	top:295px;
+	background: #FFF;
+}
 #mailing h2{
 	color: #003366;
     font-size: 13px;
@@ -946,6 +953,7 @@ a{text-decoration:none;}
 
 #link a:hover { text-decoration: underline; }
 
+#certificados { padding: 0 10px 10px ; }
 #certificados h2 { 
 	font-size: 16px;
 }
@@ -967,7 +975,7 @@ a{text-decoration:none;}
 
 .stahl #container #mailing .moonray_smart_form { padding: 0 0 10px 4px; }
 
-#mailing #moonray_forms_759 label{
+#mailing #moonray_forms_759 label, #mailing .moonray_teste label{
 	color: #1B4C87;
 	float: left;
     font-size: 8pt;

@@ -36,7 +36,7 @@ $(function(){
 
 var loadCadastro = function(tipo, link, email, nome, empresa){
     $.post(
-        '/downloads.php',
+        '/downloads_script.php',
         {
             tipo: tipo, 
             link: link,

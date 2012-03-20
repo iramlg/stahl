@@ -34,8 +34,16 @@ body {
 	text-align: center;
 	color: #000000;
 }
-a:hover{text-decoration:underline;}
-a{text-decoration:none;}
+a, a:link, a:visited {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    color:#000;   
+    text-decoration:none;
+    border: 0;
+}
 .stahl #container {
 	width: 874px;
 	text-align: left;
@@ -289,29 +297,29 @@ a{text-decoration:none;}
 	background:#FFF;
 	width:170px;
 }
-.stahl #sidebar li a:link {
+.stahl #sidebar #nav_novidades li {
+	line-height:15px;
+}
+.stahl #sidebar #nav_novidades li a {
+	padding: 5px 0;
+}
+.stahl #sidebar li {
 	color: #1b4c87;
 	text-decoration: none;
 	background:#FFF;
 	display:block;
 }
-.stahl #sidebar li a:visited {
-	text-decoration: none;
+.stahl #sidebar li a {
 	color: #1b4c87;
-	background:#FFF;
+	display:block;
 }
 .stahl #sidebar li a:hover {
 	text-decoration: none;
 	color: #FFF;
 	background: #1b4c87;
 }
-.stahl #sidebar li a:active {
-	text-decoration: none;
-	color: #1b4c87;
-	background:#FFF;
-	display:block;
-}
-.stahl #sidebar #ativo {
+
+.stahl #sidebar #ativo a {
 	text-decoration: none;
 	background: #1b4c87;
 	color: #FFF;
@@ -344,43 +352,49 @@ a{text-decoration:none;}
 #empresa {
 	width:65px;
 	height:33px;
-	background:url(img/01.png) no-repeat;
+	background:url(img/top-empresa.png) no-repeat;
 	text-indent:-999999px;
 }
 #produtos {
 	width:74px;
 	height:33px;
-	background:url(img/02.png) no-repeat;
+	background:url(img/top-produtos.png) no-repeat;
 	text-indent:-999999px;
 }
-#serviços {
+#servicos {
 	width:68px;
 	height:33px;
-	background:url(img/03.png) no-repeat;
+	background:url(img/top-servicos.png) no-repeat;
 	text-indent:-999999px;
 }
 #downloads {
 	width:82px;
 	height:33px;
-	background:url(img/04.png) no-repeat;
+	background:url(img/top-downloads.png) no-repeat;
 	text-indent:-999999px;
 }
 #representantes {
 	width:109px;
 	height:33px;
-	background:url(img/05.png) no-repeat;
+	background:url(img/top-representantes.png) no-repeat;
 	text-indent:-999999px;
 }
 #contato {
-	width:58px;
+	width:61px;
 	height:33px;
-	background:url(img/06.png) no-repeat;
+	background:url(img/top-contato.png) no-repeat;
+	text-indent:-999999px;
+}
+#novidades {
+	width:77px;
+	height:33px;
+	background:url(img/top-novidades.png) no-repeat;
 	text-indent:-999999px;
 }
 #blog {
 	width:65px;
 	height:33px;
-	background:url(img/07.png) no-repeat;
+	background:url(img/top-blog.png) no-repeat;
 	text-indent:-999999px;
 }
 /*######################## EMPRESA #########################*/
@@ -426,6 +440,15 @@ a{text-decoration:none;}
 }
 #bg_caboaco {
 	background: url(img/bg-cabo-aco.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_sistema-lcs {
+	background: url(img/bg-sistema-lcs.png) no-repeat;
 	width:575px;
 	height:90px;
 	margin: 0 0 0 170px;
@@ -595,6 +618,11 @@ a{text-decoration:none;}
 	height:72px;
 	width:170px;
 }
+#titulo_novidades {
+	background:url(img/titulo-novidades.png) no-repeat #A2A2A2;
+	height:72px;
+	width:170px;
+}
 #bg_produtos {
 	background: url(img/bg-produtos.png) no-repeat;
 	width:575px;
@@ -603,6 +631,21 @@ a{text-decoration:none;}
 	position:relative;
 	left:0px;
  *left:-3px;
+}
+#bg_novidades {
+	background: url(img/bg-novidades.png) no-repeat;
+	width:575px;
+	height:90px;
+	margin: 0 0 0 170px;
+	position:relative;
+	left:0px;
+ *left:-3px;
+}
+#bg_novidades h1 {
+	padding-top:63px;
+	padding-left:149px;
+	color:#003366;
+	font-size:18px;
 }
 #bg_produtos h1 {
 	padding-top:63px;
@@ -677,7 +720,7 @@ a{text-decoration:none;}
  *left:-3px;
 }
 #bg_radiocontrole {
-	background: url(img/rbg-radio-controle) no-repeat;
+	background: url(img/rbg-radio-controle.png) no-repeat;
 	width:575px;
 	height:90px;
 	margin: 0 0 0 170px;
@@ -686,7 +729,7 @@ a{text-decoration:none;}
  *left:-3px;
 }
 #bg_explosao {
-	background: url(img/bg-a-prova-de-explosao) no-repeat;
+	background: url(img/bg-a-prova-de-explosao.png) no-repeat;
 	width:575px;
 	height:90px;
 	margin: 0 0 0 170px;
@@ -987,3 +1030,8 @@ a{text-decoration:none;}
 #link_orcamento { color:#1B4C87; font-size: 10px; margin: 10px; display: block;}
 
 .novs b { font-weight: bold; }
+
+
+.stahl #container #mainContent .lista_novidades p { font-size: 12px; padding-left: 10px; }
+.stahl #container #mainContent .lista_novidades p a { color: #333; }
+.stahl #container #mainContent .lista_novidades p a:hover { color: #036; }

@@ -1,0 +1,1 @@
+RedirectMatch 301 (.*)\.html$ http://www.stahl-talhas.com.br$1.php

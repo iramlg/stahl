@@ -91,6 +91,7 @@ $(function() {
       <li><a href="produtos/talha-eletrica-corrente.php">Talhas Elétricas de Corrente</a></li>
       <li><a href="produtos/talha-eletrica-caboaco.php">Talhas Elétricas de Cabo de Aço</a></li>
       <li><a href="produtos/guindaste-giratorio.php">Guindastes Giratórios</a></li>
+      <li><a href="produtos/sistema-lcs.php">Sistema - LCS</a></li>
       <li><a href="produtos/monovias.php">Monovias</a></li>
       <li><a href="produtos/bloco-de-rodas.php">Blocos de Roda</a></li>
       <li><a href="produtos/acessorios.php">Acessórios</a></li>

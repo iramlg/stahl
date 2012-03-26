@@ -79,14 +79,14 @@ $(function() {
     </div>
     <div id="conteudo">
       <h2>Pontes Rolantes</h2>
-      <h3>Otimizadas para cada aplicação</h3>
+      <h3>Pontes Rolantes Stahl</h3>
       <div style="height:260px;">
         <div id="slideshow1"> 
         <img src="../img/image12.jpg" alt="Pontes Rolantes" width="360" height="250"/> 
         <img src="../img/image13.jpg" alt="Pontes Rolantes" width="360" height="250" /> 
         <img src="../img/image14.jpg" alt="Pontes Rolantes" width="360" height="250" /> <img src="../img/image15.jpg" alt="Pontes Rolantes" width="360" height="250" /> </div>
       </div>
-      <p>Nossa ampla linha de  componentes padronizados e certificados permite a constru&ccedil;&atilde;o de <strong>pontes rolantes  otimizadas</strong> para cada aplica&ccedil;&atilde;o, mesmo nos casos onde s&atilde;o necess&aacute;rios grandes  v&atilde;os, altas capacidades de carga, grandes percursos de gancho ou equipamentos  para aplica&ccedil;&otilde;es adversas - como altas ou baixas temperaturas, atmosferas agressivas  ou &aacute;reas classificadas.</p>
+      <p>Otimizadas para cada aplicação, nossa ampla linha de  componentes padronizados e certificados permite a constru&ccedil;&atilde;o de <strong>pontes rolantes  otimizadas</strong> para cada aplica&ccedil;&atilde;o, mesmo nos casos onde s&atilde;o necess&aacute;rios grandes  v&atilde;os, altas capacidades de carga, grandes percursos de gancho ou equipamentos  para aplica&ccedil;&otilde;es adversas - como altas ou baixas temperaturas, atmosferas agressivas  ou &aacute;reas classificadas.</p>
       <p> As <strong>pontes rolantes</strong><a href="../index.php">&nbsp;<strong>STAHL</strong></a>&nbsp;s&atilde;o equipadas com<strong> motoredutores</strong> <strong>de  transla&ccedil;&atilde;o</strong> com acionamento direto no eixo da roda, o que elimina a utiliza&ccedil;&atilde;o  de engrenamento externo. As rodas das pontes apoiadas s&atilde;o confeccionadas em  ferro fundido esferoidal GGG70 e possuem propriedades auto-lubrificantes e grande  resist&ecirc;ncia ao desgaste.</p>
       <p> Motores de <strong>rotor cil&iacute;ndrico</strong> com baix&iacute;ssimo n&iacute;vel de ru&iacute;do, desenvolvidos  especificamente para transla&ccedil;&atilde;o de <strong>pontes rolantes</strong>, garantem o m&iacute;nimo balan&ccedil;o  da carga atrav&eacute;s de movimentos suaves de partidas e paradas.&nbsp;</p>
       <p> Dupla-velocidade e chaves fim-de-curso s&atilde;o itens de s&eacute;rie.</p>

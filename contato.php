@@ -157,7 +157,7 @@ return false;
       <p>Itapecerica da Serra - SP</p>
       <p>CEP 06882 - 700</p>
       <p>Fone: (11) 4147 - 7777</p>
-      <p>Fax: (11) 4147 - 3104</p>
+      <p>Fax: (11) 4147 - 7779</p>
       <br />
       <?php include("lista.php"); ?>
     </div>

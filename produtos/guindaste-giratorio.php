@@ -78,7 +78,7 @@ $(function() {
      
         
         
-  <h2>Gundastes Girat&oacute;rios STAHL - Modelos</h2>
+  <h2>Guindastes Girat&oacute;rios STAHL - Modelos</h2>
         
   <p>Os guindastes girat&oacute;rios s&atilde;o fornecidos basicamente em cinco modelos</p>
   <p><strong>Guindaste Girat&oacute;rio de Parede tipo Tirante

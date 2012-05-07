@@ -12,7 +12,7 @@
         <!--li><a href="<?= HTMLBASE; ?>/produtos/kit-componentes.php"> Kit  de componentes</a></li-->
       </ul>
       <p>&nbsp;</p>
-      <p>Pe&ccedil;as  sobressalentes;<a href="<?= HTMLBASE; ?>/servicos.php"> <strong>manuten&ccedil;&atilde;o preventiva e corretiva<br>
-      Consultoria especializada em  transporte e movimenta&ccedil;&atilde;o de carga e fornecimento de componentes para outros  fabricantes.</strong></a></p>
+      <p>Pe&ccedil;as  sobressalentes;<a href="<?= HTMLBASE; ?>/servicos.php"> manuten&ccedil;&atilde;o preventiva e corretiva<br>
+      Consultoria especializada em  transporte e movimentação de carga e fornecimento de componentes para outros  fabricantes.</a></p>
       <p>&nbsp;</p>
       <p> <a href="<?= HTMLBASE; ?>/produtos/a-prova-de-explosao.php">Todos os equipamentos podem ser fornecidos na versão á prova de explosão.</a></p>

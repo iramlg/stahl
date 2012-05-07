@@ -35,9 +35,11 @@
     </div>
     <div id="conteudo" class="lista_novidades">
       <h2></h2>
+      <h3>2012</h3>
+      <h3>Maio</h3>
+      <p><a href="Pontes-rolantes-Stahl-qualidade-e-eficiencia-garantidas.php">Pontes rolantes Stahl: qualidade e eficiência garantidas</a></p>      
       <h3>Março</h3>
       <p><a href="excelencia.php">Stahl: excelência em produtos e serviço</a></p>
-      <h3>2011</h3>
       <h3>Fevereiro</h3>
       <p><a href="pontes-rolantes.php">Pontes Rolantes: solução em elevação e transporte de cargas.</a></p>
       <h3>2011</h3>

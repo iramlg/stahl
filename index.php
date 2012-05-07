@@ -124,12 +124,12 @@ var phpmyvisitesURL = "http://www.neitrax.com.br/phpmyvisites.php";
       <!--<a href="novidades/novidades.php" target="_blank"><img src="images/novidades_foto1.jpg" width="150" height="115" border="0"></a>-->
       <p>&nbsp; </p>
       <h2>Novidades Stahl</h2>
+      <p><a href="novidades/Pontes-rolantes-Stahl-qualidade-e-eficiencia-garantidas.php">- Pontes rolantes Stahl: qualidade e eficiência garantidas</a></p> 
+      <p><a href="excelencia.php">- Stahl: excelência em produtos e serviço</a></p>
       <p><a href="novidades/pontes-rolantes.php">- Pontes Rolantes: solução em elevação e transporte de cargas.</a></p>
       <p><a href="novidades/em-meca.php">- Em Meca, a STAHL iça o maior relógio de torre do mundo.</a></p>
       <p><a href="novidades/testada-mil-vezes.php">- Testada mil vezes, a talha de cabo de aço SH 50 EX comemora seu milésimo aniversário.</a></p>
-      <p><a href="novidades/talha-bigbag.php">- Talha STAHL ST Big-Bag: eleva&ccedil;&atilde;o de cargas volumosas sem obstru&ccedil;&otilde;es</a></p>
-      <p><a href="novidades/talha-duplo-gancho.php">- Talha de duplo gancho STAHL STD Vario: Transporte seguro de cargas de diferentes comprimentos.</a></p>
-      <p><a href="novidades/talha-radio.php">- Talha STAHL RadioMOVEit: eleva&ccedil;&atilde;o ergon&ocirc;mica e segura.</a></p>
+      <p><a href="novidades/talha-bigbag.php">- Talha STAHL ST Big-Bag: eleva&ccedil;&atilde;o de cargas volumosas sem obstru&ccedil;&otilde;es</a></p>      
     </div>
   </div>
   <div id="sidebar">

@@ -5,7 +5,7 @@
   <li><a href="talha-eletrica-corrente.php">Talhas Elétricas de Corrente</a></li>
   <li><a href="talha-eletrica-caboaco.php">Talhas Elétricas de Cabo de Aço</a></li>
   <li><a href="guindaste-giratorio.php">Guindastes Giratórios</a></li>
-  <li><a href="sistema-lcs.php">Sistema - LCS</a></li>
+  <li><a href="sistema-lcs.php">Sistemas Modulares LCS</a></li>
   <li><a href="monovias.php">Monovias</a></li>
   <li><a href="bloco-de-rodas.php">Blocos de Roda</a></li>
   <li><a href="acessorios.php">Acessórios</a></li>

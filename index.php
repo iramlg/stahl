@@ -124,6 +124,7 @@ var phpmyvisitesURL = "http://www.neitrax.com.br/phpmyvisites.php";
       <!--<a href="novidades/novidades.php" target="_blank"><img src="images/novidades_foto1.jpg" width="150" height="115" border="0"></a>-->
       <p>&nbsp; </p>
       <h2>Novidades Stahl</h2>
+      <p><a href="novidades/De-bola-em-bola-a-stahl-conquista-os-visitantes-da-mecanica-2012.php">- De bola em bola a Stahl conquista os visitantes da Mecânica 2012</a></p>
       <p><a href="novidades/Pontes-rolantes-Stahl-qualidade-e-eficiencia-garantidas.php">- Pontes rolantes Stahl: qualidade e eficiência garantidas</a></p> 
       <p><a href="excelencia.php">- Stahl: excelência em produtos e serviço</a></p>
       <p><a href="novidades/pontes-rolantes.php">- Pontes Rolantes: solução em elevação e transporte de cargas.</a></p>
@@ -139,6 +140,9 @@ var phpmyvisitesURL = "http://www.neitrax.com.br/phpmyvisites.php";
       <li><a href="stahl-cranesystems.php">Stahl CraneSystems</a></li>
       <li><a href="historia.php">Um Pouco de História</a></li>
     </ul>
+    <div id="sidebar1">
+      <img src="images/mecanica.jpg" title="Mecanica" style=" border-radius: 8px; margin: 10px 0 0 10px" alt="stahl" width="150" height="78"> 
+    </div>
     <div id="banner">
       
     </div>
@@ -147,7 +151,7 @@ var phpmyvisitesURL = "http://www.neitrax.com.br/phpmyvisites.php";
     <h1> A Empresa </h1>
   </div>
   <div id="mainContent">
-    <div id="sidebar1"> </div>
+    
     <div id="conteudo">
     	      <p>&nbsp;</p>
 

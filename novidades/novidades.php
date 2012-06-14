@@ -37,6 +37,7 @@
       <h2></h2>
       <h3>2012</h3>
       <h3>Junho</h3>
+      <p><a href="pontes-rolantes-na-industria-quimica.php">Pontes rolantes na indústria química</a></p>
       <p><a href="Pontes-rolantes-no-setor-de-petroleo-e-gas-natural.php">Pontes rolantes no setor de petróleo e gás natural</a></p>  
       <h3>Maio</h3>
       <p><a href="De-bola-em-bola-a-stahl-conquista-os-visitantes-da-mecanica-2012.php">De bola em bola a Stahl conquista os visitantes da Mecânica 2012</a></p>  

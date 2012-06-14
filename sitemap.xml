@@ -8,463 +8,483 @@
 
 <url>
   <loc>http://www.stahl-talhas.com.br/index.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/servicos.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/representantes.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/contato.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/novidades/novidades.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/miss_vis_val.pdf</loc>
   <lastmod>2012-03-19T21:15:32+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/pontes-rolantes-na-industria-quimica.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/Pontes-rolantes-no-setor-de-petroleo-e-gas-natural.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/De-bola-em-bola-a-stahl-conquista-os-visitantes-da-mecanica-2012.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/Pontes-rolantes-Stahl-qualidade-e-eficiencia-garantidas.php</loc>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/novidades/pontes-rolantes.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/novidades/em-meca.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.stahl-talhas.com.br/novidades/testada-mil-vezes.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.stahl-talhas.com.br/novidades/talha-bigbag.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.stahl-talhas.com.br/novidades/talha-duplo-gancho.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.stahl-talhas.com.br/novidades/talha-radio.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/stahl-cranesystems.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/pontes-rolantes.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/talha-eletrica-corrente.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/talha-eletrica-caboaco.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/guindaste-giratorio.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/sistema-lcs.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/monovias.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/bloco-de-rodas.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/a-prova-de-explosao.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/acessorios.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/pecas.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/manuais.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/lista-pecas.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/catalogos.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/novidades/excelencia.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/testada-mil-vezes.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/talha-bigbag.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/talha-duplo-gancho.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.stahl-talhas.com.br/novidades/talha-radio.php</loc>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/talha-eletrica-paternoster.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/ponte-rolante-apoiada-univiga.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/ponte-rolante-apoiada-dupla-viga.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/ponte-rolante-suspensa.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/orcamento-talhas.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/talha-corrente-standard.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/talha-duplo-gancho.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/talhas-especiais.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/talha-eletrica-cabo-aco-sh.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/talha-eletrica-cabo-aco-as7.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/br_ex-kompetenz_en.pdf</loc>
   <lastmod>2012-03-19T21:13:15+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/abastecimentos-de-forca.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/produtos/radio-controle.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/manual_T.pdf</loc>
   <lastmod>2012-03-19T21:15:36+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/manual_st_portugues.pdf</loc>
   <lastmod>2012-03-19T21:15:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/manual_AS.pdf</loc>
   <lastmod>2012-03-19T21:14:31+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/manual_SH.pdf</loc>
   <lastmod>2012-03-19T21:15:19+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/Lista_Pecas_R6.pdf</loc>
   <lastmod>2012-03-19T21:14:20+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/Lista_Pecas_R20.pdf</loc>
   <lastmod>2012-03-19T21:14:28+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_T2.pdf</loc>
   <lastmod>2012-03-19T21:17:31+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_T3.pdf</loc>
   <lastmod>2012-03-19T21:17:33+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_T4.pdf</loc>
   <lastmod>2012-03-19T21:17:37+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_T5.pdf</loc>
   <lastmod>2012-03-19T21:17:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_T6.pdf</loc>
   <lastmod>2012-03-19T21:17:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_ST_05.pdf</loc>
   <lastmod>2012-03-19T21:16:44+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_ST_10.pdf</loc>
   <lastmod>2012-03-19T21:17:11+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_ST_20-30.pdf</loc>
   <lastmod>2012-03-19T21:17:28+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_ST_32-50-60.pdf</loc>
   <lastmod>2012-03-19T21:17:56+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/as20_ol.pdf</loc>
   <lastmod>2012-03-19T21:11:31+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/as30_ol.pdf</loc>
   <lastmod>2012-03-19T21:11:31+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_AS_40.pdf</loc>
   <lastmod>2012-03-19T21:15:39+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_AS_50.pdf</loc>
   <lastmod>2012-03-19T21:15:43+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_AS_60.pdf</loc>
   <lastmod>2012-03-19T21:15:46+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_AS_70.pdf</loc>
   <lastmod>2012-03-19T21:16:08+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/sh2_ol.pdf</loc>
   <lastmod>2012-03-19T21:18:20+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_SH_30.pdf</loc>
   <lastmod>2012-03-19T21:16:01+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_SH_40.pdf</loc>
   <lastmod>2012-03-19T21:16:16+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_SH_50.pdf</loc>
   <lastmod>2012-03-19T21:16:32+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/modelo_SH_60.pdf</loc>
   <lastmod>2012-03-19T21:16:42+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/talhas_de_cabo_de_aco_tipo_SH.pdf</loc>
   <lastmod>2012-03-19T21:23:01+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/talhas_de_cabo_de_aco_tipo_AS.pdf</loc>
   <lastmod>2012-03-19T21:22:39+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/talhas_de_corrente_tipo_ST.pdf</loc>
   <lastmod>2012-03-19T21:23:11+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/blocos_roda.pdf</loc>
   <lastmod>2012-03-19T21:12:59+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/folder_pontes.pdf</loc>
   <lastmod>2012-03-19T21:14:04+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/folder_talhas_sh.pdf</loc>
   <lastmod>2012-03-19T21:14:08+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/folder_talhas_st.pdf</loc>
   <lastmod>2012-03-19T21:14:13+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/downloads/folder_wheel_blocks_english.pdf</loc>
   <lastmod>2012-03-19T21:14:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/corrente-elos.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/especializacao-talha.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/inovacao-elektus.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/programa-padronizacao.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.26</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/pontes-rolantes-ettlingen.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.21</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/cabo-as.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.17</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/desenvolvimento-cabo-aco.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.13</priority>
 </url>
 <url>
   <loc>http://www.stahl-talhas.com.br/historia/125-anos-stahl.php</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <priority>0.11</priority>
 </url>
 </urlset>

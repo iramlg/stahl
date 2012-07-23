@@ -124,13 +124,13 @@ var phpmyvisitesURL = "http://www.neitrax.com.br/phpmyvisites.php";
       <!--<a href="novidades/novidades.php" target="_blank"><img src="images/novidades_foto1.jpg" width="150" height="115" border="0"></a>-->
       <p>&nbsp; </p>
       <h2>Novidades Stahl</h2>
+      <p><a href="novidades/pontes-rolantes-na-industria-de-producao-de-eletricidade.php">- Pontes rolantes na indústria de produção de eletricidade</a></p>
       <p><a href="novidades/pontes-rolantes-na-industria-quimica.php">- Pontes rolantes na indústria química</a></p>
       <p><a href="novidades/Pontes-rolantes-no-setor-de-petroleo-e-gas-natural.php">- Pontes rolantes no setor de petróleo e gás natural</a></p> 
       <p><a href="novidades/De-bola-em-bola-a-stahl-conquista-os-visitantes-da-mecanica-2012.php">- De bola em bola a Stahl conquista os visitantes da Mecânica 2012</a></p>
       <p><a href="novidades/Pontes-rolantes-Stahl-qualidade-e-eficiencia-garantidas.php">- Pontes rolantes Stahl: qualidade e eficiência garantidas</a></p> 
       <p><a href="excelencia.php">- Stahl: excelência em produtos e serviço</a></p>
       <p><a href="novidades/pontes-rolantes.php">- Pontes Rolantes: solução em elevação e transporte de cargas.</a></p>
-      <p><a href="novidades/em-meca.php">- Em Meca, a STAHL iça o maior relógio de torre do mundo.</a></p>
     </div>
   </div>
   <div id="sidebar">

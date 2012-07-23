@@ -36,6 +36,8 @@
     <div id="conteudo" class="lista_novidades">
       <h2></h2>
       <h3>2012</h3>
+      <h3>Julho</h3>
+      <p><a href="pontes-rolantes-na-industria-de-producao-de-eletricidade.php">Pontes rolantes na indústria de produção de eletricidade</a></p>
       <h3>Junho</h3>
       <p><a href="pontes-rolantes-na-industria-quimica.php">Pontes rolantes na indústria química</a></p>
       <p><a href="Pontes-rolantes-no-setor-de-petroleo-e-gas-natural.php">Pontes rolantes no setor de petróleo e gás natural</a></p>  

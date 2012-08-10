@@ -129,120 +129,72 @@ function MM_showHideLayers() { //v6.0
         <p><img src="images/mapa_representantes.jpg" width="370" height="371" border="0" usemap="#Maprs"></p>
       </div>
       <div id="Layer1" class="mapa_r">
-        <h3>( RS ) - ISLOTEC Engenharia de Equipamentos para Movimenta&ccedil;&atilde;o de Cargas Ltda.</h3>
-        <p>Tel.: (51)3533-1244 Fax.: (51) 3347-5241</p>
-        <p>Contato: Srs. Izidoro da Silva Lopes / Christian G. Lopes </p>
-        <p>E-Mail.: islo@terra.com.br</p>
+        <h3>Rio Grande do Sul - RS</h3>
+        <p>Tel.: (51)3340-5420 Cel.: (51) 9292-9142</p>
+        <p>E-Mail: contato@islotec.com.br</p>
+        <p>Contato: Sr. Christian G. Lopes </p>
       </div>
       <div id="Layer2" class="mapa_r">
-        <h3>( PR ) - ENDAFFA Representa&ccedil;&otilde;es Comerciais Ltda</h3>
-        <p>Tel.:(41) 3092-1345 / 9973-7257</p>
+        <h3>Paraná - PR</h3>
+        <p>Tel.:(41) 3092-1345 Cel.: 9973-7257</p>
+        <p>E-Mail: darilton@endaffa.com.br</p>
         <p>Contato: Eng&ordm; Darilton Aguiar </p>
-        <p>E-Mail.: darilton@endaffa.com.br</p>
       </div>
       <div id="Layer3" class="mapa_r">
-        <h3>( SP )STAHL TALHAS Matriz</h3>
+        <h3>São Paulo - SP</h3>
         <p>Fone: (11) 4147 - 4242</p>
-        <p>Fax: (11) 4147 - 3104</p>
-        <p>stahl@stahl-talhas.com.br</p>
+        <p>E-Mail: stahl@stahl-talhas.com.br</p>
+        <p>Contato: Eng&ordm; Fernando Huete</p>
       </div>
       <div id="Layer4" class="mapa_r">
-        <h3>( RJ ) - VBM EQUIPAMENTOS LTDA.</h3>
+        <h3>Rio de Janeiro - RJ</h3>
         <p>Tel.: (21) 2592-1209 Cel.: (21) 8208-8224</p>
+        <p>E-mail: vbmsena@uol.com.br </p>
         <p>Contato: Eng&deg; Jos&eacute; Sena</p>
-        <p> E-mail: vbmsena@uol.com.br </p>
       </div>
       <div id="Layer5" class="mapa_r">
-        <h3>(  ES ) - LLL Engenharia Cons. Com. e Representa&ccedil;&otilde;es Ltda</h3>
+        <h3>Espirito Santo - ES</h3>
         <p>Tel: (27) 3345-1595 Cel: (27) 8112-8762</p>
-        <p>Contato : Sr. Luciano Jose Varej&atilde;o Fassarella </p>
         <p>E-Mail: llleng@terra.com.br</p>
+        <p>Contato : Eng&deg; Luciano Jose Fassarella </p>
       </div>
       <div id="Layer6" class="mapa_r">
-        <h3>( MG ) - MOVIMAT Representa&ccedil;&otilde;es ltda</h3>
+        <h3>Minas Gerais - MG</h3>
         <p>Tel.Fax.: (31) 3441-2353 Cel: (31) 8822-0316 </p>
-        <p>Contato : Sr. Haroldo Rezende </p>
-        <p> E-Mail: movimather@oi.com.br</p>
+        <p>E-Mail: movimather@oi.com.br</p>
+        <p>Contato: Eng&deg; Haroldo Rezende </p>
       </div>
       <div id="Layer7" class="mapa_r">
-        <h3>( BA ) MMR  ENGENHARIA DE PONTES ROLANTES</h3>
-        <p> Fone: (71) 4113-1529 Cel.: (71) 9177-1805</p>
-        <p>Contato: Sr. Milton Sampaio</p>
-        <p>contato@mmrpontesrolantes.com.br </p>
+        <h3>Salvador - BA</h3>
+        <p>Fone: (71) 4141-4549 Cel.: (71) 9206-5211</p>
+        <p>E-Mail: rafael.sallenave@yahoo.com.br </p>
+        <p>Contato: Eng&deg; Rafael Sallenave </p>
       </div>
       <div id="Layer8" class="mapa_r ">
-        <h3>( PE / PB ) GERAES Representa&ccedil;&otilde;es Ltda.</h3>
-      
-        <p> Fone: (81) 3468-4808 Cel.: (81) 9989-6491</p>
-        <p> Contato: Sr. Ronaldo Lelis </p>
-        <p> geraesrepresentacoes@uol.com.br </p>
+        <h3>Pernanbuco / Paraíba - PE / PA</h3>
+        <p>Fone: (81) 3468-4808 Cel.: (81) 9989-6491</p>
+        <p>E-Mail: geraesrepresentacoes@uol.com.br </p>
+        <p>Contato: Sr. Ronaldo Lelis </p>
       </div>
       <div id="Layer9"class="mapa_r ">
-        <h3>( AL / SE ) SOARES &amp; MACIEL Representa&ccedil;&otilde;es Ltda.</h3>
+        <h3>Alagoas / Sergipe - AL / SE</h3>
         <p>Fone: (82) 3228-6982 Cel.: (82) 9977-7695</p>
-        <p>Contato: Sr. Sebasti&atilde;o Soares da Silva Neto</p>
-        <p>e-mail: sebastiaonetos@hotmail.com</p>
+        <p>E-mail: sebastiaonetos@hotmail.com</p>
+        <p>Contato: Sr. Sebasti&atilde;o Soares</p>
       </div>
       <div id="Layer10"class="mapa_r ">
-        <h3>( SC ) PROMAC &#8211; MAQUINAS E EQUIPAMENTOS LTDA.</h3>
-        <p> Fones: 47-3323-5437 Cel.: (47) 9982 - 0052</p>
-        <p>Contato &#8211; Rolf Milchert </p>
+        <h3>Santa Catarina - SC</h3>
+        <p>Fones: (47) 3323-5437 Cel.: (47) 9982 - 0052</p>
         <p>Email: rolfmaq@terra.com.br</p>
+        <p>Contato: Sr. Rolf Milchert </p>
       </div>
       <div id="Layer11" class="mapa_r ">
-        <h3>( CE / RN ) ARTEC Nordeste.</h3>
+        <h3>Ceara / Rio Grande do Norte - CE / RN</h3>
         <p>Fones: (85) 3293-9303 Cel.: (85) 9669-6971</p>
-        <p>Contato &#8211; Sr. Augusto</p>
         <p>Email: artecnordeste@terra.com.br</p>
+        <p>Contato: Sr. Augusto</p>
       </div>
-      <div id="Layer12"class="mapa_r ">
-        <h3>( RR )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer13" class="mapa_r ">
-        <h3>( AM )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer14" class="mapa_r ">
-        <h3>( AC ) </h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer15" class="mapa_r ">
-        <h3>( RO )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer16" class="mapa_r ">
-        <h3>( MT )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer17" class="mapa_r ">
-        <h3>( PA ) </h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer18" class="mapa_r ">
-        <h3>( AP )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer19" class="mapa_r ">
-        <h3>( MA ) </h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer20" class="mapa_r ">
-        <h3>( TO )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer21"class="mapa_r ">
-        <h3>( GO e DF)</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer22" class="mapa_r ">
-        <h3>( MS )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
-      <div id="Layer23" class="mapa_r ">
-        <h3>( PI )</h3>
-        <p>Para este Estado estamos cadastrando novo representante. Para maiores informa&ccedil;&otilde;es entre em contato com nossa empresa 11 4147-7777. </p>
-      </div>
+
       <?php include("lista.php"); ?>
       <map name="Maprs" id="Maprs">
         <area shape="poly" coords="154,329" href="#">

@@ -141,9 +141,9 @@ function MM_showHideLayers() { //v6.0
         <p>Contato: Eng&ordm; Darilton Aguiar </p>
       </div>
       <div id="Layer3" class="mapa_r">
-        <h3>São Paulo - SP</h3>
-        <p>Fone: (11) 4147 - 4242</p>
-        <p>E-Mail: stahl@stahl-talhas.com.br</p>
+        <h3>São Paulo - SP (Matriz)</h3>
+        <p>Fone: (11) 4147 - 7778</p>
+        <p>E-Mail: vendasl@stahl-talhas.com.br</p>
         <p>Contato: Eng&ordm; Fernando Huete</p>
       </div>
       <div id="Layer4" class="mapa_r">
@@ -190,9 +190,9 @@ function MM_showHideLayers() { //v6.0
       </div>
       <div id="Layer11" class="mapa_r ">
         <h3>Ceara / Rio Grande do Norte - CE / RN</h3>
-        <p>Fones: (85) 3293-9303 Cel.: (85) 9669-6971</p>
+        <p>Fones: (85) 3248-1277 Cel.: (85) 9669-6971</p>
         <p>Email: artecnordeste@terra.com.br</p>
-        <p>Contato: Sr. Augusto</p>
+        <p>Contato: Eng&deg; Augusto</p>
       </div>
 
       <?php include("lista.php"); ?>
